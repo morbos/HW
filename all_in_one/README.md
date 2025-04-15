@@ -13,3 +13,7 @@ The Teapot Labs design is very good but I wanted a few changes:
 7) Sized to fit on my hot plate.
 
 
+Software for this is in dirs denoted by <dir>_aio (all in one)
+
+ex:
+https://github.com/morbos/ada/tree/main/STM32/WL/WL5J/door2_aio
